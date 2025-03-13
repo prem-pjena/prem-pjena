@@ -38,7 +38,7 @@ Description: Implemented DevOps practices such as containerization, container or
 
 ✅ Configured Route 53 for secure frontend exposure
 
-🔗 GitHub Repo
+🔗 GitHub Repo: https://github.com/prem-pjena/ecommerce-devops
 
 🔹 GitHub-JIRA Automation using Python
 
@@ -50,7 +50,7 @@ Description: Developed an automation solution to integrate GitHub with JIRA usin
 
 ✅ Reduced manual JIRA ticket creation through automation
 
-🔗 GitHub Repo
+🔗 GitHub Repo: https://github.com/prem-pjena/github-jira-automation
 
 🔹 Simple Python Flask Service
 
@@ -64,7 +64,7 @@ Description: A minimal Python Flask-based web service designed for deployment in
 
 ✅ Deployed on Kubernetes for scalability and reliability
 
-🔗 GitHub Repo
+🔗 GitHub Repo: https://github.com/prem-pjena/simple-python-flask-service
 
 🔹 Jenkins Implementation
 
@@ -78,17 +78,17 @@ Description: Implemented Jenkins for automated CI/CD pipeline management and dep
 
 ✅ Automated CI/CD workflows for efficient software delivery
 
-🔗 GitHub Repo
+🔗 GitHub Repo: https://github.com/prem-pjena/Jenkins-Implementation
 
 🎓 Certifications & Achievements
 
-AWS Certified Cloud Practitioner
+🏅 AWS Certified Cloud Practitioner
 
 📫 Let's Connect!
 
-💼 LinkedIn
+💼 LinkedIn: https://www.linkedin.com/in/prem-prakash-7b9a561b2/
 
-🔗 GitHub
+🔗 GitHub: https://github.com/prempjena
 
 📧 Email: premprakashjena04@gmail.com
 
