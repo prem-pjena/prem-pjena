@@ -82,7 +82,7 @@ Description: Implemented Jenkins for automated CI/CD pipeline management and dep
 
 🎓 Certifications & Achievements
 
-🏅 AWS Certified Cloud Practitioner
+🏅 
 
 📫 Let's Connect!
 
