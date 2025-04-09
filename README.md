@@ -4,7 +4,12 @@
 
 ## 🚀 About Me
 
-Hello! I'm **Prem Prakash Jena**, an aspiring **DevOps Engineer** and a B.Tech graduate in **Computer Science and Engineering (2024)** from **Lovely Professional University**.
+Hey there! I'm **Prem Prakash Jena** — your friendly neighborhood **DevOps rookie** with a big love for all things cloud, automation, and containers. 🛠️⚙️
+
+I'm currently diving deep into tools like **AWS, Docker, Kubernetes, Terraform**, and setting up slick **CI/CD pipelines** like it's second nature. Whether it’s deploying scalable apps or scripting my way out of chaos, I’m all about turning complex infra into clean, automated magic. ✨
+
+Always building. Always learning. Always shipping. 💻🚢
+
 
 I specialize in **Cloud Computing**, **Automation**, and **Infrastructure Management**, with hands-on experience in:
 
