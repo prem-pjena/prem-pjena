@@ -1,97 +1,109 @@
-💻 Welcome to My GitHub Profile
+# 💻 Welcome to My GitHub Profile
 
-🚀 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=prem-pjena&color=blue)
 
-Hello! I'm Prem Prakash Jena, an aspiring DevOps Engineer and a B.Tech graduate in Computer Science and Engineering (2024) from Lovely Professional University. I have a strong foundation in cloud computing, automation, and infrastructure management, with hands-on experience in AWS, Terraform, Kubernetes, Docker, and CI/CD tools.
+## 🚀 About Me
 
-🛠️ Technical Skills
+Hello! I'm **Prem Prakash Jena**, an aspiring **DevOps Engineer** and a B.Tech graduate in **Computer Science and Engineering (2024)** from **Lovely Professional University**.
 
-Cloud Platforms: AWS (EC2, S3, VPC, Route 53, Load Balancers)
+I specialize in **Cloud Computing**, **Automation**, and **Infrastructure Management**, with hands-on experience in:
 
-DevOps Tools: Terraform, Kubernetes, Docker, Ansible
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue)
+![Jenkins](https://img.shields.io/badge/Jenkins-Automation-red)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-yellow)
+![Python](https://img.shields.io/badge/Python-Scripting-green)
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange)
+![Grafana](https://img.shields.io/badge/Grafana-Observability-yellow)
 
-CI/CD: GitHub Actions, Argo CD, Jenkins
+---
 
-Scripting: Python, Shell Scripting
+## 🛠️ Technical Skills
 
-Infrastructure as Code: Terraform, CloudFormation
+- **Cloud Platforms:** AWS (EC2, S3, VPC, Route 53, Load Balancers)  
+- **DevOps Tools:** Terraform, Kubernetes, Docker, Ansible  
+- **CI/CD:** GitHub Actions, Argo CD, Jenkins  
+- **Scripting:** Python, Shell Scripting  
+- **Infrastructure as Code:** Terraform, CloudFormation  
+- **Monitoring & Observability:** Prometheus, Grafana, ELK Stack  
+- **Networking:** VPC, Load Balancers, DNS (Route 53)  
+- **Version Control:** Git, GitHub, GitLab  
+- **Operating Systems:** Linux (Ubuntu, CentOS), Windows Server  
 
-Monitoring & Observability: Prometheus, Grafana, ELK Stack
+---
 
-Networking: VPC, Load Balancers, DNS (Route 53)
+## 📂 Projects
 
-Version Control: Git, GitHub, GitLab
+### 🔹 [E-Commerce DevOps Implementation](https://github.com/prem-pjena/ecommerce-devops)
+> **Description:** DevOps pipeline for a demo e-commerce platform with containerization, orchestration, IaC, and CI/CD.
+- 🚀 **Stack:** Docker, Kubernetes, Terraform, AWS, GitHub Actions, Argo CD  
+- ✅ Created EKS cluster using Terraform  
+- ✅ CI/CD pipeline for Java microservices  
+- ✅ Route 53 DNS for frontend  
 
-Operating Systems: Linux (Ubuntu, CentOS), Windows Server
+### 🔹 [GitHub-JIRA Automation using Python](https://github.com/prem-pjena/github-jira-automation)
+> **Description:** Python automation to integrate GitHub Webhooks with JIRA API.
+- 🚀 **Stack:** Python, Flask, GitHub Webhooks, JIRA API  
+- ✅ Auto ticket creation using Webhooks  
+- ✅ Reduced manual JIRA overhead  
 
-📂 Projects
+### 🔹 [Simple Python Flask Service](https://github.com/prem-pjena/simple-python-flask-service)
+> **Description:** Lightweight REST API using Flask, containerized and deployed on Kubernetes.
+- 🚀 **Stack:** Python, Flask, Docker, Kubernetes  
+- ✅ RESTful API + Docker  
+- ✅ Deployed on Kubernetes cluster  
 
-🔹 E-Commerce DevOps Implementation
+### 🔹 [Jenkins Implementation](https://github.com/prem-pjena/Jenkins-Implementation)
+> **Description:** Automated CI/CD using Jenkins and Docker.
+- 🚀 **Stack:** Jenkins, Docker, GitHub  
+- ✅ Configured Jenkins pipelines  
+- ✅ Docker-based builds and deployment  
 
-Description: Implemented DevOps practices such as containerization, container orchestration, Infrastructure as Code (IaC), and CI/CD for a demo e-commerce project.
+### 🔹 [Express API DevOps Deployment](https://github.com/prem-pjena/express-api-devops)
+> **Description:** Full-stack DevOps pipeline for Express API with IaC, CI/CD, Monitoring, and Security.
+- 🚀 **Stack:** Docker, GitHub Actions, AWS EC2, Terraform, Prometheus, Grafana, Secrets Manager  
+- ✅ Dockerized Node.js API with GitHub Actions CI/CD  
+- ✅ Infrastructure as Code with Terraform  
+- ✅ Monitoring & alerting with Prometheus + Grafana  
 
-🚀 Tech Stack Used: Docker, Kubernetes, Terraform, AWS, GitHub Actions, Argo CD
+### 🔹 [Medusa Backend ECS Deployment](https://github.com/prem-pjena/medusa-ecs-deploy)
+> **Description:** Deployment of Medusa backend using Terraform, AWS ECS (Fargate), and GitHub Actions.
+- 🚀 **Stack:** Terraform, AWS ECS, ECR, GitHub Actions  
+- ✅ ECS cluster setup with Fargate using Terraform  
+- ✅ GitHub Actions-based deployment pipeline  
+- ✅ Scalable architecture for headless eCommerce backend  
 
-✅ Created an EKS cluster within VPC using Terraform modules
+---
 
-✅ Implemented CI/CD pipelines for a Java-based microservice
+## 📈 GitHub Stats
 
-✅ Configured Route 53 for secure frontend exposure
+![Prem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prem-pjena&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prem-pjena&layout=compact&theme=radical)
 
-🔗 GitHub Repo: https://github.com/prem-pjena/ecommerce-devops
+---
 
-🔹 GitHub-JIRA Automation using Python
+## 🌱 Contribution Graph
 
-Description: Developed an automation solution to integrate GitHub with JIRA using Python.
+[![Prem's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=prem-pjena&theme=radical)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-🚀 Tech Stack Used: Python, Flask, JIRA API, GitHub Webhooks
+---
 
-✅ Used GitHub Webhooks to trigger JIRA API and create automated tickets
+## 🎓 Certifications & Achievements
 
-✅ Reduced manual JIRA ticket creation through automation
+🏅 (You can list your certifications here like AWS Cloud Practitioner, CKA, etc.)
 
-🔗 GitHub Repo: https://github.com/prem-pjena/github-jira-automation
+---
 
-🔹 Simple Python Flask Service
+## 📫 Let's Connect!
 
-Description: A minimal Python Flask-based web service designed for deployment in containerized environments.
+- 💼 [LinkedIn](https://www.linkedin.com/in/prem-prakash-7b9a561b2/)  
+- 🔗 [GitHub](https://github.com/prempjena)  
+- 📧 Email: premprakashjena04@gmail.com  
+- 📍 Location: Noida, India  
 
-🚀 Tech Stack Used: Python, Flask, Docker, Kubernetes
+---
 
-✅ Developed a simple RESTful API using Flask
-
-✅ Containerized the application using Docker for easy deployment
-
-✅ Deployed on Kubernetes for scalability and reliability
-
-🔗 GitHub Repo: https://github.com/prem-pjena/simple-python-flask-service
-
-🔹 Jenkins Implementation
-
-Description: Implemented Jenkins for automated CI/CD pipeline management and deployment.
-
-🚀 Tech Stack Used: Jenkins, Docker, GitHub
-
-✅ Configured Jenkins pipelines for automated build, test, and deployment
-
-✅ Integrated Docker for building containerized applications
-
-✅ Automated CI/CD workflows for efficient software delivery
-
-🔗 GitHub Repo: https://github.com/prem-pjena/Jenkins-Implementation
-
-🎓 Certifications & Achievements
-
-🏅 
-
-📫 Let's Connect!
-
-💼 LinkedIn: https://www.linkedin.com/in/prem-prakash-7b9a561b2/
-
-🔗 GitHub: https://github.com/prempjena
-
-📧 Email: premprakashjena04@gmail.com
-
-📍 Location: Noida, India
-
-⚡ "Automating the future, one script at a time!"
+> ⚡ *"Automating the future, one script at a time!"*
