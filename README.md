@@ -2,6 +2,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=prem-pjena&color=blue)
 
+---
+
+![Banner](https://github.com/prem-pjena/prem-pjena/blob/main/assets/banner-dark.png) <!-- Replace with your custom banner -->
+
 ## 🚀 About Me
 
 Hey there! I'm **Prem Prakash Jena** — your friendly neighborhood **DevOps rookie** with a big love for all things cloud, automation, and containers. 🛠️⚙️
@@ -10,19 +14,28 @@ I'm currently diving deep into tools like **AWS, Docker, Kubernetes, Terraform**
 
 Always building. Always learning. Always shipping. 💻🚢
 
+---
 
-I specialize in **Cloud Computing**, **Automation**, and **Infrastructure Management**, with hands-on experience in:
+## 🧰 Tech Stack I 💻
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue)
-![Jenkins](https://img.shields.io/badge/Jenkins-Automation-red)
-![Ansible](https://img.shields.io/badge/Ansible-Automation-yellow)
-![Python](https://img.shields.io/badge/Python-Scripting-green)
-![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange)
-![Grafana](https://img.shields.io/badge/Grafana-Observability-yellow)
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
 
 ---
 
@@ -40,53 +53,29 @@ I specialize in **Cloud Computing**, **Automation**, and **Infrastructure Manage
 
 ---
 
-## 📂 Projects
+## 📌 Featured Projects (Auto Cards)
 
-### 🔹 [E-Commerce DevOps Implementation](https://github.com/prem-pjena/ecommerce-devops)
-> **Description:** DevOps pipeline for a demo e-commerce platform with containerization, orchestration, IaC, and CI/CD.
-- 🚀 **Stack:** Docker, Kubernetes, Terraform, AWS, GitHub Actions, Argo CD  
-- ✅ Created EKS cluster using Terraform  
-- ✅ CI/CD pipeline for Java microservices  
-- ✅ Route 53 DNS for frontend  
-
-### 🔹 [GitHub-JIRA Automation using Python](https://github.com/prem-pjena/github-jira-automation)
-> **Description:** Python automation to integrate GitHub Webhooks with JIRA API.
-- 🚀 **Stack:** Python, Flask, GitHub Webhooks, JIRA API  
-- ✅ Auto ticket creation using Webhooks  
-- ✅ Reduced manual JIRA overhead  
-
-### 🔹 [Simple Python Flask Service](https://github.com/prem-pjena/simple-python-flask-service)
-> **Description:** Lightweight REST API using Flask, containerized and deployed on Kubernetes.
-- 🚀 **Stack:** Python, Flask, Docker, Kubernetes  
-- ✅ RESTful API + Docker  
-- ✅ Deployed on Kubernetes cluster  
-
-### 🔹 [Jenkins Implementation](https://github.com/prem-pjena/Jenkins-Implementation)
-> **Description:** Automated CI/CD using Jenkins and Docker.
-- 🚀 **Stack:** Jenkins, Docker, GitHub  
-- ✅ Configured Jenkins pipelines  
-- ✅ Docker-based builds and deployment  
-
-### 🔹 [Express API DevOps Deployment](https://github.com/prem-pjena/express-api-devops)
-> **Description:** Full-stack DevOps pipeline for Express API with IaC, CI/CD, Monitoring, and Security.
-- 🚀 **Stack:** Docker, GitHub Actions, AWS EC2, Terraform, Prometheus, Grafana, Secrets Manager  
-- ✅ Dockerized Node.js API with GitHub Actions CI/CD  
-- ✅ Infrastructure as Code with Terraform  
-- ✅ Monitoring & alerting with Prometheus + Grafana  
-
-### 🔹 [Medusa Backend ECS Deployment](https://github.com/prem-pjena/medusa-ecs-deploy)
-> **Description:** Deployment of Medusa backend using Terraform, AWS ECS (Fargate), and GitHub Actions.
-- 🚀 **Stack:** Terraform, AWS ECS, ECR, GitHub Actions  
-- ✅ ECS cluster setup with Fargate using Terraform  
-- ✅ GitHub Actions-based deployment pipeline  
-- ✅ Scalable architecture for headless eCommerce backend  
+<a href="https://github.com/prem-pjena/ecommerce-devops">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-pjena&repo=ecommerce-devops&theme=radical" />
+</a>
+<a href="https://github.com/prem-pjena/express-api-devops">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-pjena&repo=express-api-devops&theme=radical" />
+</a>
+<a href="https://github.com/prem-pjena/medusa-ecs-deploy">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-pjena&repo=medusa-ecs-deploy&theme=radical" />
+</a>
+<a href="https://github.com/prem-pjena/github-jira-automation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-pjena&repo=github-jira-automation&theme=radical" />
+</a>
 
 ---
 
 ## 📈 GitHub Stats
 
-![Prem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prem-pjena&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prem-pjena&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prem-pjena&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-pjena&layout=compact&theme=radical" />
+</div>
 
 ---
 
@@ -98,7 +87,7 @@ I specialize in **Cloud Computing**, **Automation**, and **Infrastructure Manage
 
 ## 🎓 Certifications & Achievements
 
-🏅 (You can list your certifications here like AWS Cloud Practitioner, CKA, etc.)
+🏅 *List your certifications here (e.g. AWS Cloud Practitioner, Certified Kubernetes Administrator, etc.)*
 
 ---
 
@@ -112,3 +101,6 @@ I specialize in **Cloud Computing**, **Automation**, and **Infrastructure Manage
 ---
 
 > ⚡ *"Automating the future, one script at a time!"*
+
+---
+
