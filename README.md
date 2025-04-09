@@ -87,7 +87,7 @@ I specialize in **Cloud Computing**, **Automation**, and **Infrastructure Manage
 
 ## 🌱 Contribution Graph
 
-[![Prem's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=prem-pjena&theme=radical)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Prem's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prem-pjena&theme=radical)](https://github.com/prem-pjena/github-readme-activity-graph)
 
 ---
 
