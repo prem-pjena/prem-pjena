@@ -4,8 +4,6 @@
 
 ---
 
-![Banner](https://github.com/prem-pjena/prem-pjena/blob/main/assets/banner-dark.png) <!-- Replace with your custom banner -->
-
 ## 🌐 Portfolio Website
 
 Check out my personal DevOps portfolio to explore my projects, tech stack, and resume:
