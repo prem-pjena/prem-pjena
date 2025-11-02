@@ -91,7 +91,8 @@ Always building. Always learning. Always shipping. 💻🚢
 
 ## 🎓 Certifications & Achievements
 
-🏅 *List your certifications here (e.g. AWS Cloud Practitioner, Certified Kubernetes Administrator, etc.)*
+🏅AWS Certified Cloud Practitioner
+https://www.credly.com/badges/492e516f-edc9-4284-ac52-fb7eb0889b21/public_url
 
 ---
 
