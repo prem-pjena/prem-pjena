@@ -1,26 +1,37 @@
-<!-- MATRIX CODE RAIN BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
-<!-- GLOWING SVG HEADER -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=38&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=Prem+Prakash+Jena;Backend+Engineer;Distributed+Systems+Builder;Cloud-Native+Architect" />
-</h1>
+<!-- ================= MATRIX + ANIMATED HEADER ================= -->
 
 <p align="center">
-  <b>Python • FastAPI • AWS • Event-Driven Architecture</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=180&section=header&text=Prem%20Prakash%20Jena&fontSize=45&fontColor=00FF99&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <i>Scalable systems. Clean architecture. Production reliability.</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=800&lines=Python+Backend+Developer;FastAPI+%7C+AWS+Serverless;Event-Driven+Systems;Distributed+Architecture+Enthusiast;Production-Grade+Backend+Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prem-pjena&color=white&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=prem-pjena&color=00ff99&style=for-the-badge" />
 </p>
 
 ---
+
+## 🖥 Terminal Boot
+
+```bash
+$ whoami
+Prem Prakash Jena
+
+$ role --current
+Python Backend Developer
+
+$ stack --primary
+Python | FastAPI | AWS Lambda | EventBridge | SQS | PostgreSQL | DynamoDB
+
+$ architecture --mode
+event-driven | async | serverless | scalable
+
+$ status
+READY_FOR_PRODUCTION 🚀
+
 
 ## ⚡ Engineering Philosophy
 
