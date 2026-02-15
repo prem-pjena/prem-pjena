@@ -1,123 +1,141 @@
-<h1 align="center">Prem Prakash Jena</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+</p>
+
+<h1 align="center">⚡ Prem Prakash Jena</h1>
 
 <p align="center">
-Backend Software Engineer • Python • Distributed Systems • AWS Serverless
+  Backend Engineer • Python • Distributed Systems • AWS Serverless
 </p>
 
 <p align="center">
-Designing scalable, event-driven systems with production-grade reliability.
+  <i>Designing scalable systems. Shipping production-ready code. Staying async.</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prem-pjena&color=grey&style=flat-square" />
-</p>
-
----
-
-## Core Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lambda-000000?style=for-the-badge&logo=aws-lambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/EventBridge-000000?style=for-the-badge&logo=amazon-eventbridge&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQS-000000?style=for-the-badge&logo=amazon-sqs&logoColor=white" />
-  <img src="https://img.shields.io/badge/DynamoDB-000000?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=prem-pjena&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
 
-## Engineering Focus
+## 🧠 About Me
 
-• Event-driven backend architecture  
-• Async & concurrent system design  
-• Stateless scalable services  
-• Fault-tolerant workflows  
-• Clean modular API design  
-• Production-grade observability  
+Backend-focused engineer building event-driven, cloud-native systems with production-grade reliability.
+
+🔹 Infrastructure-aware backend mindset  
+🔹 Async-first architecture design  
+🔹 Clean modular systems  
+🔹 Performance & scalability focused  
+
+From API design → distributed workflows → deployment → observability.  
+End-to-end ownership.
 
 ---
 
-## System Design Portfolio
+## 🛠️ Tech Arsenal
 
-### Event-Driven Travel Booking Platform
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,dynamodb,aws,docker,linux,githubactions" />
+</p>
 
-Production-style serverless backend simulating real-world booking lifecycle workflows.
+<p align="center">
+  <img src="https://img.shields.io/badge/Lambda-111111?style=for-the-badge&logo=aws-lambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/EventBridge-111111?style=for-the-badge&logo=amazon-eventbridge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQS-111111?style=for-the-badge&logo=amazon-sqs&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Gateway-111111?style=for-the-badge&logo=amazon-api-gateway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Async_IO-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System_Design-111111?style=for-the-badge" />
+</p>
+
+---
+
+## 🏗 System Design Portfolio
+
+### ✈️ Event-Driven Travel Booking Platform
+
+Production-style serverless backend simulating real-world booking workflows.
 
 **Architecture**
-• Event-driven communication via EventBridge + SQS  
-• Async processing for concurrent operations  
-• Hybrid data modeling (DynamoDB + PostgreSQL)  
-• JWT-secured modular FastAPI services  
+• Event-driven communication (EventBridge + SQS)  
+• Async request handling for concurrency  
+• Hybrid persistence (DynamoDB + PostgreSQL)  
 • Stateless Lambda-based compute  
+• JWT-secured FastAPI services  
 
-**Reliability & Scalability**
+**Scalability & Reliability**
 • Queue-based failure isolation  
-• Idempotent event handling  
+• Idempotent event processing  
 • Horizontal scalability  
-• Structured logging with monitoring integration  
+• Structured logging with monitoring  
 
 **Measured Impact**
 • ~70% reduction in service coupling  
 • ~60% reduction in deployment overhead via CI/CD  
-• Improved concurrency handling through async I/O  
-• Designed extensible architecture without structural redesign  
+• Improved concurrency through async I/O  
+• Extensible architecture without redesign  
 
 ---
 
-## Infrastructure & Reliability Engineering
+## ⚙️ Infrastructure & Reliability Engineering
 
-Jr DevOps Engineer Experience
+Jr DevOps Engineer
 
 • Automated AWS provisioning (EC2, RDS, ALB, SQS, CloudFront)  
-• Reduced configuration drift via infrastructure automation  
-• Improved uptime with monitoring & alerting  
+• Improved uptime via monitoring & alerting  
+• Reduced configuration drift through automation  
 • Optimized Linux production systems  
-• Implemented secure SSL/TLS deployments with load balancing  
+• Secure SSL/TLS deployments with load balancing  
+
+Production-first engineering mindset.
 
 ---
 
-## Problem Solving & Algorithms
+## 🧩 Problem Solving & Algorithms
 
-• Strong foundation in data structures & complexity analysis  
-• Optimization-driven engineering (O(1), O(log n), O(n))  
-• Applied hashing, sliding window, two-pointers, recursion, dynamic programming  
+• Strong DSA foundation  
+• Complexity-driven engineering mindset  
+• Applied hashing, sliding window, two-pointers, recursion, DP  
 • Writing clean, interview-grade implementations  
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prem-pjena&show_icons=true&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&bg_color=000000" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-pjena&layout=compact&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=000000" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prem-pjena&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-pjena&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-pjena&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=aaaaaa&currStreakNum=ffffff&sideLabels=aaaaaa&dates=888888"/>
-</p>
-
----
-
-## Certification
-
-AWS Certified Cloud Practitioner — 2025
-
----
-
-<p align="center">
-LinkedIn • GitHub • premprakashjena04@gmail.com  
-Noida, India
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-pjena&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
+## 🏅 Certification
+
+🎖️ AWS Certified Cloud Practitioner (2025)  
+🔗 https://www.credly.com/badges/492e516f-edc9-4284-ac52-fb7eb0889b21/public_url
+
+---
+
+## 🌐 Connect
+
 <p align="center">
-<sub>Building distributed backend systems with clean architecture and production reliability.</sub>
+  <a href="https://www.linkedin.com/in/premprakashj/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/prem-pjena">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:premprakashjena04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Distributed systems. Clean architecture. Production reliability.</b><br/>
+  <sub>Noida, India 🌍</sub>
 </p>
