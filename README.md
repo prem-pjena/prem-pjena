@@ -1,111 +1,123 @@
-# 💻 Welcome to My GitHub Profile
+<h1 align="center">Prem Prakash Jena</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=prem-pjena&color=blue)
+<p align="center">
+Backend Software Engineer • Python • Distributed Systems • AWS Serverless
+</p>
 
----
+<p align="center">
+Designing scalable, event-driven systems with production-grade reliability.
+</p>
 
-## 🌐 Portfolio Website
-
-Check out my personal DevOps portfolio to explore my projects, tech stack, and resume:
-
-[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-%23007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://devops-portfolio-five.vercel.app/)
-
-## 🚀 About Me
-
-Hey there! I'm **Prem Prakash Jena** — your friendly neighborhood **DevOps rookie** with a big love for all things cloud, automation, and containers. 🛠️⚙️
-
-I'm currently diving deep into tools like **AWS, Docker, Kubernetes, Terraform**, and setting up slick **CI/CD pipelines** like it's second nature. Whether it’s deploying scalable apps or scripting my way out of chaos, I’m all about turning complex infra into clean, automated magic. ✨
-
-Always building. Always learning. Always shipping. 💻🚢
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prem-pjena&color=grey&style=flat-square" />
+</p>
 
 ---
 
-## 🧰 Tech Stack I 💻
+## Core Stack
 
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lambda-000000?style=for-the-badge&logo=aws-lambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/EventBridge-000000?style=for-the-badge&logo=amazon-eventbridge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQS-000000?style=for-the-badge&logo=amazon-sqs&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-000000?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## Engineering Focus
 
-- **Cloud Platforms:** AWS (EC2, S3, VPC, Route 53, Load Balancers)  
-- **DevOps Tools:** Terraform, Kubernetes, Docker, Ansible  
-- **CI/CD:** GitHub Actions, Argo CD, Jenkins  
-- **Scripting:** Python, Shell Scripting  
-- **Infrastructure as Code:** Terraform, CloudFormation  
-- **Monitoring & Observability:** Prometheus, Grafana, ELK Stack  
-- **Networking:** VPC, Load Balancers, DNS (Route 53)  
-- **Version Control:** Git, GitHub, GitLab  
-- **Operating Systems:** Linux (Ubuntu, CentOS), Windows Server  
+• Event-driven backend architecture  
+• Async & concurrent system design  
+• Stateless scalable services  
+• Fault-tolerant workflows  
+• Clean modular API design  
+• Production-grade observability  
 
 ---
 
-## 📌 Featured Projects (Auto Cards)
+## System Design Portfolio
 
-<a href="https://github.com/prem-pjena/ecommerce-devops">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-pjena&repo=ecommerce-devops&theme=radical" />
-</a>
-<a href="https://github.com/prem-pjena/express-api-devops">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-pjena&repo=express-api-devops&theme=radical" />
-</a>
-<a href="https://github.com/prem-pjena/medusa-ecs-deploy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-pjena&repo=medusa-ecs-deploy&theme=radical" />
-</a>
-<a href="https://github.com/prem-pjena/github-jira-automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prem-pjena&repo=github-jira-automation&theme=radical" />
-</a>
+### Event-Driven Travel Booking Platform
 
----
+Production-style serverless backend simulating real-world booking lifecycle workflows.
 
-## 📈 GitHub Stats
+**Architecture**
+• Event-driven communication via EventBridge + SQS  
+• Async processing for concurrent operations  
+• Hybrid data modeling (DynamoDB + PostgreSQL)  
+• JWT-secured modular FastAPI services  
+• Stateless Lambda-based compute  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prem-pjena&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-pjena&layout=compact&theme=radical" />
-</div>
+**Reliability & Scalability**
+• Queue-based failure isolation  
+• Idempotent event handling  
+• Horizontal scalability  
+• Structured logging with monitoring integration  
 
----
-
-## 🌱 Contribution Graph
-
-[![Prem's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prem-pjena&theme=radical)](https://github.com/prem-pjena/github-readme-activity-graph)
+**Measured Impact**
+• ~70% reduction in service coupling  
+• ~60% reduction in deployment overhead via CI/CD  
+• Improved concurrency handling through async I/O  
+• Designed extensible architecture without structural redesign  
 
 ---
 
-## 🎓 Certifications & Achievements
+## Infrastructure & Reliability Engineering
 
-🏅AWS Certified Cloud Practitioner
-https://www.credly.com/badges/492e516f-edc9-4284-ac52-fb7eb0889b21/public_url
+Jr DevOps Engineer Experience
 
----
-
-## 📫 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/prem-prakash-7b9a561b2/)  
-- 🔗 [GitHub](https://github.com/prempjena)  
-- 📧 Email: premprakashjena04@gmail.com  
-- 📍 Location: Noida, India  
+• Automated AWS provisioning (EC2, RDS, ALB, SQS, CloudFront)  
+• Reduced configuration drift via infrastructure automation  
+• Improved uptime with monitoring & alerting  
+• Optimized Linux production systems  
+• Implemented secure SSL/TLS deployments with load balancing  
 
 ---
 
-> ⚡ *"Automating the future, one script at a time!"*
+## Problem Solving & Algorithms
+
+• Strong foundation in data structures & complexity analysis  
+• Optimization-driven engineering (O(1), O(log n), O(n))  
+• Applied hashing, sliding window, two-pointers, recursion, dynamic programming  
+• Writing clean, interview-grade implementations  
 
 ---
 
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prem-pjena&show_icons=true&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&bg_color=000000" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-pjena&layout=compact&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=000000" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-pjena&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=aaaaaa&currStreakNum=ffffff&sideLabels=aaaaaa&dates=888888"/>
+</p>
+
+---
+
+## Certification
+
+AWS Certified Cloud Practitioner — 2025
+
+---
+
+<p align="center">
+LinkedIn • GitHub • premprakashjena04@gmail.com  
+Noida, India
+</p>
+
+---
+
+<p align="center">
+<sub>Building distributed backend systems with clean architecture and production reliability.</sub>
+</p>
