@@ -1,128 +1,59 @@
-<!-- MATRIX CODE RAIN BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
+👋 Hi, I'm Prem Prakash
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Backend+Engineer;LLM+%7C+RAG+Systems;FastAPI+%7C+AWS+%7C+Scalable+Architecture" /> </p>
+🧬 Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00f7ff&style=for-the-badge" /> </p>
+🌌 Dark Neon Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,fastapi,aws,docker,postgres,redis,git,linux&theme=dark" /> </p>
+⚡ About Me
 
-<!-- GLOWING SVG HEADER -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=38&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=Prem+Prakash+Jena;Backend+Engineer;Distributed+Systems+Builder;Cloud-Native+Architect" />
-</h1>
+💡 I build production-grade AI backend systems that scale.
 
-<p align="center">
-  <b>Python • FastAPI • AWS • Event-Driven Architecture</b>
-</p>
+🚀 LLM-powered systems (RAG)
+⚡ Async FastAPI architectures
+☁️ AWS event-driven systems
+🧠 System design focused
+🚀 🔥 FEATURED PROJECT (RECRUITER MAGNET)
+🧾 AI DOCUMENT CHAT SYSTEM (RAG ENGINE)
+<p align="center"> <img src="https://img.shields.io/badge/STATUS-PRODUCTION_READY-00f7ff?style=for-the-badge"/> <img src="https://img.shields.io/badge/ARCHITECTURE-RAG-purple?style=for-the-badge"/> <img src="https://img.shields.io/badge/BUILT_WITH-FastAPI-blue?style=for-the-badge"/> </p>
+🧠 What It Does
+Upload documents → Ask questions → Get context-aware AI answers
+Uses semantic search + LLM reasoning
+Designed for high concurrency + scalability
+⚙️ Architecture
+🧩 Core Engineering Highlights
+🔹 Async FastAPI backend (high throughput)
+🔹 Vector search using FAISS
+🔹 Efficient chunking + embedding pipeline
+🔹 Clean modular architecture (production ready)
+🔹 Handles multiple concurrent users
+🌐 Live Demo & Repo
+<p align="center"> <a href="YOUR_DEPLOYED_LINK"> <img src="https://img.shields.io/badge/Live_Demo-Visit-00f7ff?style=for-the-badge&logo=vercel"/> </a> <a href="YOUR_REPO_LINK"> <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"/> </a> </p>
+⚙️ Other Project
+✈️ Event-Driven Travel Platform
+AWS Lambda + SQS + EventBridge
+Fully async workflows
+JWT-secured APIs
+Dockerized deployment
+📊 GitHub Analytics (Neon Theme)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f7ff&icon_color=00f7ff" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&ring=00f7ff&fire=00f7ff" /> </p>
+🐍 Contribution Snake (Dark Neon)
+<p align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" /> </p>
 
-<p align="center">
-  <i>Scalable systems. Clean architecture. Production reliability.</i>
-</p>
+👉 To enable this, create this repo:
+YOUR_USERNAME/YOUR_USERNAME
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prem-pjena&color=white&style=flat-square" />
-</p>
+Then add a GitHub Action (I can generate it if you want).
 
----
+🧑‍💻 Experience
 
-## ⚡ Engineering Philosophy
+💼 Jr DevOps Engineer — ArcLogiq Software Solutions
+📅 May 2025 – Oct 2025
 
-I design backend systems that are:
-
-• Stateless and horizontally scalable  
-• Event-driven and loosely coupled  
-• Observable and production-ready  
-• Performance-conscious and complexity-aware  
-
-From API layer → distributed workflows → infrastructure → monitoring.  
-Full lifecycle ownership.
-
----
-
-## 🧊 Core Stack (Minimal Hacker Style)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,dynamodb,aws,docker,linux,githubactions&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Async_IO-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Distributed_Systems-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Serverless-000000?style=for-the-badge" />
-</p>
-
----
-
-## 🏗 System Design Portfolio
-
-### ✈️ Event-Driven Travel Booking Platform
-
-Serverless distributed backend simulating real-world booking lifecycle workflows.
-
-**Architecture**
-- Event-driven communication via EventBridge + SQS  
-- Async processing for concurrent operations  
-- Hybrid persistence (DynamoDB for state, PostgreSQL for transactions)  
-- Stateless Lambda compute layer  
-- JWT-secured modular FastAPI services  
-
-**Scalability & Reliability**
-- Queue-based failure isolation  
-- Idempotent event handling  
-- Horizontal scalability  
-- Structured logging + monitoring  
-
-**Measured Impact**
-- ~70% reduction in service coupling  
-- ~60% reduction in deployment overhead  
-- Improved concurrency with async architecture  
-- Extensible system without structural redesign  
-
----
-
-## 🧩 Algorithms & Complexity
-
-• Strong DSA foundation  
-• Optimization-first thinking (O(1), O(log n), O(n))  
-• Applied hashing, sliding window, recursion, DP  
-• Designing systems with trade-offs in mind  
-
----
-
-## 📊 Engineering Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prem-pjena&show_icons=true&hide_border=true&title_color=ffffff&text_color=cccccc&icon_color=ffffff&bg_color=000000" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-pjena&layout=compact&hide_border=true&title_color=ffffff&text_color=cccccc&bg_color=000000" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-pjena&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=cccccc&currStreakNum=ffffff&sideLabels=cccccc&dates=888888"/>
-</p>
-
----
-
-## 🏅 Certification
-
-AWS Certified Cloud Practitioner — 2025  
-https://www.credly.com/badges/492e516f-edc9-4284-ac52-fb7eb0889b21/public_url  
-
----
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/premprakashj/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/prem-pjena">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:premprakashjena04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <sub>Noida, India 🌍</sub>
-</p>
+Automated AWS infra using Ansible
+Deployed scalable systems with load balancing
+Improved reliability via monitoring
+Optimized Linux performance
+🌐 Connect With Me
+<p align="center"> <a href="mailto:premprakashjena04@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-00f7ff?style=for-the-badge&logo=gmail"/> </a> <a href="YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-Profile-00f7ff?style=for-the-badge&logo=linkedin"/> </a> <a href="YOUR_GITHUB"> <img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github"/> </a> </p>
+⚡ Philosophy
+<p align="center"> <i style="color:#00f7ff">"Great backend systems are invisible, scalable, and reliable."</i> </p>
